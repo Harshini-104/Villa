@@ -1,0 +1,67 @@
+.cont2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    
+}
+.list{
+    list-style: none;
+    display:flex;
+    gap: 10px;
+    margin-right: 125px;
+
+}
+
+
+.villa{
+    margin-left: 150px;
+    font-family: sans-serif;
+}
+
+.sch{
+    width: 165px;
+    height: 20px;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.h:hover{
+    cursor: pointer;
+    color: red;
+
+}
+.p:hover{
+    cursor: pointer;
+    color: red;
+
+}
+.p:hover{
+    cursor: pointer;
+    color: red;
+
+}
+
+.pd:hover{
+    cursor: pointer;
+    color: red;
+
+}
+.c:hover{
+    cursor: pointer;
+    color: red;
+
+}
+.sch:hover{
+    cursor: pointer;
+    color: red;
+}
+hr{
+    height: 1px;
+    background-color: rgb(198, 186, 186);
+    margin: 15px ;
+    margin-top: -30px;
+}
