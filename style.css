@@ -121,6 +121,19 @@ hr{
     color: orangered;
     font-family: cursive;
 }
-.pic{
+.cont3 img{
+    height: 300px;
     width: 100%;
+}
+.bodycontent{
+    color: white;
+    margin-top: -250px;
+    margin-left: 450px;
+}
+.video img{
+    width: 700px;
+    margin-left: 300px;
+}
+.bodycontent p{
+    color: red;
 }
