@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    border: 0;
+}
+.cont2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    
+}
+.list{
+    list-style: none;
+    display:flex;
+    gap: 10px;
+    margin-right: 125px;
+
+}
+
+
+.villa{
+    margin-left: 150px;
+    font-family: sans-serif;
+}
+
+.sch{
+    width: 165px;
+    height: 20px;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.h:hover{
+    cursor: pointer;
+    color: red;
+
+}
+.p:hover{
+    cursor: pointer;
+    color: red;
+
+}
+.p:hover{
+    cursor: pointer;
+    color: red;
+
+}
+
+.pd:hover{
+    cursor: pointer;
+    color: red;
+
+}
+.c:hover{
+    cursor: pointer;
+    color: red;
+
+}
+.sch:hover{
+    cursor: pointer;
+    color: red;
+}
+hr{
+    height: 1px;
+    background-color: rgb(198, 186, 186);
+    margin: 15px ;
+}
+.main1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.body{
+    margin-left: 30px;
+}
+.card{
+    width: 350px;
+    height: 450px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px;
+    
+}
+.card img{
+    height: 200px;
+    width: 300px;
+    margin-top: 15px;
+    margin-left: 25px;
+    border-radius: 5px;
+    
+}
+.build{
+    display: flex;
+    margin-left: 25px;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+.apart{
+    background-color: rgb(239, 142, 158);
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+}
+.rate{
+    margin-right: 30px;
+}
+.rate{
+    font-weight: bolder;
+    color: red;
+}
+.add{
+    margin-left: 25px;
+    font-weight: bolder;
+}
+.details{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr1 fr;
+    font-size: 15px;
+    margin-left: 25px;
+    gap: 10px;
+}
+.num{
+    font-weight: bolder;
+}
+.schedule{
+    
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 95px;
+    margin-top: 25px;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+.schedule:hover{
+    background-color: red;
+}
+.penthouse{
+    background-color: rgb(239, 142, 158);
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+}
+.modern{
+    background-color: rgb(239, 142, 158);
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+}

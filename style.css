@@ -2,3 +2,125 @@
     margin: 0;
     border: 0;
 }
+.head{
+    width: 100%;
+    
+}
+.cont1{
+    display: flex;
+}
+.mail{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 150px;
+}
+
+.img1{
+    height: 20px;
+}
+.slash{
+    margin-top: 15px;
+    margin-left: 30px;
+    
+}
+.sunny{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+.img2{
+    height: 20px;
+}
+.icon{
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+    margin-left: 600px;
+}
+hr{
+    height: 1px;
+    background-color: rgb(198, 186, 186);
+    margin: 15px ;
+   
+}
+.cont2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.list{
+    list-style: none;
+    display:flex;
+    gap: 10px;
+    margin-right: 125px;
+
+}
+
+
+.villa{
+    margin-left: 150px;
+    font-family: sans-serif;
+}
+
+.sch{
+    width: 165px;
+    height: 20px;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.h:hover{
+    cursor: pointer;
+    color: red;
+
+}
+.p:hover{
+    cursor: pointer;
+    color: red;
+
+}
+.p:hover{
+    cursor: pointer;
+    color: red;
+
+}
+
+.pd:hover{
+    cursor: pointer;
+    color: red;
+
+}
+.c:hover{
+    cursor: pointer;
+    color: red;
+
+}
+.sch:hover{
+    cursor: pointer;
+    color: red;
+
+}
+.head1{
+    color:black;
+    position: absolute;
+    top: 360px;
+    left: 350px;
+    background-color: white;
+}
+.hurry{
+    color: white;
+    position: absolute;
+    top: 400px;
+    left: 350px;
+}
+.canada{
+    color: orangered;
+    font-family: cursive;
+}
+.pic{
+    width: 100%;
+}
